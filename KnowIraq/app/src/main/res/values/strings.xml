@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Know Iraq?</string>
+
+    <string name="Q1">Iraq is a country located in?</string>
+    <string name="q1a1">Europe</string>
+    <string name="q1a2">Africa</string>
+    <string name="q1a3">Asia</string>
+
+    <string name="Q2">What is the capital of Iraq?</string>
+    <string name="q2a1">Cairo</string>
+    <string name="q2a2">Baghdad</string>
+    <string name="q2a3">Damascus</string>
+
+    <string name="Q3">This is the second official language in Iraq</string>
+    <string name="q3a1">Farsi</string>
+    <string name="q3a2">Kurdish</string>
+    <string name="q3a3">Pushtu</string>
+
+    <string name="Q4">The first writing system was invented in?</string>
+    <string name="q4a1">Sumer</string>
+    <string name="q4a2">Babylon</string>
+    <string name="q4a3">Ashur</string>
+
+    <string name="Q5">This river flows in Iraq</string>
+    <string name="q5a1">Jordan</string>
+    <string name="q5a2">Nile</string>
+    <string name="q5a3">Tigris</string>
+
+    <string name="yourscore">Your Score</string>
+
+</resources>
